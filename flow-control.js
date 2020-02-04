@@ -1,3 +1,10 @@
+var basicTeenager = {"teenager", age()}
+if basicTeenager.age < 19 & > 12 {
+  return("You are a teenager!")
+}
+
+
+
 function  basicTeenager(age) {
  if var basicTeenager ((age) > 12 & (age) < 20)
 return ("You are a teenager!")
